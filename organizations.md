@@ -1,3 +1,6 @@
+---
+order: 2
+---
 # Organizations
 
 Here are some organizations to check out!

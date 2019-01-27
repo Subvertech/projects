@@ -8,7 +8,7 @@ The tech industry has been accelerating the growing gap between the rich and poo
 Technology rules our lives and, for better or for worse, those who provide it receive the biggest cut. Some may raise the notion that that's completely fair, **"If I change how the world works in big ways, I can become powerful."** However, exploitation and abject wealth go hand in hand.
 When wielded by the underprivileged, technology is powerful: empowering people by increasing access to opportunities for upward mobility and 
 provide tools for equalizing the playing field. But wielded by those seeking incredible wealth, technology is exploitative: [automating and surveiling your livelihood](https://www.theguardian.com/technology/2019/jan/20/shoshana-zuboff-age-of-surveillance-capitalism-google-facebook) so they can sell you more. It is time to rethink our relationship with technology. It is time to reconsider the 
-societal impacts of our progressive web apps. It is time to reimagine the notion to: **"We can make small changes to the world and make
+societal impacts of our progressive web apps. It is time to reimagine the notion: **"We can make small changes to the world and make
 someone else a little more powerful."**
 
 ### It is time to subvert tech.
