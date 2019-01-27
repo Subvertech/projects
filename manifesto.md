@@ -1,4 +1,4 @@
-### Ethos
+## Ethos
 #### Can technology be produced without exploitation?
 #### Can technology be used to stop exploitation?
 #### Can technology be used to reduce inequality?
