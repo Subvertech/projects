@@ -18,16 +18,18 @@ There are countless, amazing people scattered around the world working on projec
 lasting impacts in the communities that they serve. This website is a tribute to their effort by increasing their visibility in hopes that you
 consider contributing to them yourself.
 
-### Subvertech in the short term:
+### Subvertech
 
-For now, it's just a [Github repository](https://github.com/subvertech/projects) of projects that you can support and contribute to that embody the spirit of reducing income inequality (is it uncool to use Github now by the way?). This website is dynamically loaded with new contributions to the repository. There's also a page for scoping out future projects that "subvert" the way we think about what tech can do
+Subvertech (for now) is a [Github repository](https://github.com/subvertech/projects) of projects that embody the spirit of reducing income inequality that you can support or contribute to. This website is dynamically loaded with new contributions to the repository. There's also a page for scoping out future projects that "subvert" the way we think about what tech can do
 to reduce income inequality.
 
-### Subvertech in the long term:
+### How to contribute
 
-I would love to see Subvertech grow into a platform for people to launch their awesome projects on a shared network of cheap computers. We often have to rely on cloud computing provided by big tech companies and share rackspace with disagreeable institutions. It would be unfortunate if your effort to reduce inequality inadvertently contributes back to the problem itself. The same problem carries into decentralized web architectures as well:
-you would never know what kind of projects that your personal machine is contributing to. By designing into the system semantics for "agreeability,"
-the load balancer can prioritize projects on your machine that you feel the most connected to. For now, let's just stick with the projects repository!
+If you'd like to add a project to showcase, go to the main github repository, [github.com/subvertech/contribute](https://github.com/subvertech/contribute), find the markdown file that you'd like to add to, and press the pencil icon to begin editing. Any new markdown (i.e. my_project.md) file that you create will be added as a page to the site as: `subvertech.org/my_project`.
+
+### Subvertech as a platform
+
+This website is a simple platform for you to tell the world about cool projects and propose a few of your own. I would love to see Subvertech grow into a platform for people to launch inequality-fighting projects on a shared network of cheap computers. I imagine people being able to share the burden of hosting and computation but also be able to choose what projects they'd like to host on their machines. But for now, let's stick with what we have!
 
 ### One more (problematic) thing:
 
